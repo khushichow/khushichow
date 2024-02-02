@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-#### Hi, I'm khushi and im a third year computer science student at toronto metropolitan university. I'm a full stack Developer and Writer trying to persue a career and video game design and writing. I enjoy getting inspired by media to write or create new project that will let me learn more.
+#### Hi, I'm khushi and im a third year computer science student at toronto metropolitan university.I'm a full stack Developer and Writer trying to persue a career and video game design and writing.I enjoy getting inspired by media to write or create new project that will let me learn more. I hope to further my skills and make more projects for my porfolio.
 
 #
 ### Languages
