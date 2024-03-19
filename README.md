@@ -44,9 +44,9 @@ Hi, I'm khushi and I'm a third year computer science student at toronto metropol
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=khushichow&theme=gruvbox&border_radius=4.5) -->
 
 ### Get in Contact!
-#### (Click the GIF) 
+#### 
 <div align="center">
-  <a target="_blank" rel="noopener" href="https://khushichow.github.io"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBqdTZhbXdrZWEwOWU0djNxMXdnb25mczA4cnl6NzQyMHJyeG9wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif" witdh="150"/></a>
+  <a target="_blank" rel="noopener" href="https://khushichow.github.io">WEBSITE!!!!</a>
 </div>
 
 
