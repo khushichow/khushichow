@@ -45,9 +45,11 @@ Hi, I'm khushi and I'm a third year computer science student at toronto metropol
 
 ### Get in Contact!
 #### 
-<div align="center">
-  <a target="_blank" rel="noopener" href="https://khushichow.github.io">WEBSITE!!!!</a>
+
+<div style="text-align: center;">
+  <a target="_blank" rel="noopener" href="https://khushichow.github.io" style="text-decoration: none; color: #007bff; font-size: 20px; font-weight: bold;">Visit My Website!</a>
 </div>
+
 
 
 
