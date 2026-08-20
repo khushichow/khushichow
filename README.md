@@ -35,13 +35,19 @@ Hi, I'm khushi and I'm a third year computer science student at toronto metropol
 
 ### Stats
 
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushichow&show_icons=true&theme=tokyonight)
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=khushichow&show_icons=true&theme=tokyonight"
+    alt="Khushi's GitHub Stats"
+  />
+</p>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=khushichow&theme=gruvbox&border_radius=4.5) -->
-
-![Khushi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushichow&show_icons=true&theme=highcontrast)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=khushichow&theme=gruvbox&border_radius=4.5) -->
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushichow&layout=compact&theme=tokyonight"
+    alt="Khushi's Top Languages"
+  />
+</p>
 
 ### Get in Contact!
 #### 
